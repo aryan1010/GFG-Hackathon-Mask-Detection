@@ -63,8 +63,7 @@ python app.py
 
    i. Girl With Mask.  
 ![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/24245f84-a9bf-4fc9-ad0c-db55ed481f49)
-   ii. Donald Trump without Mask.  
-![trump](trump.png)
+![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/d96bfa92-2cf1-4b87-993c-a306a5689863)
 
   4. Live Mask Detection
 ![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/d96bfa92-2cf1-4b87-993c-a306a5689863)
