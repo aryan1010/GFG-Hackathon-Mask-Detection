@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 
 <p align="center">
-  <a href="https://github.com/ksdkamesh99/Face-Mask-Detection">
+  <a href="https://github.com/aryan1010">
     <img src="https://i.pinimg.com/236x/db/d2/0f/dbd20f5f7bdb931ac9183f140a1ad3d1.jpg" alt="Logo" width="150" height="150">
   </a>
 
@@ -32,7 +32,7 @@ Our Model performs fairly well with an accuracy of 98% and an F1 Score of 97%. T
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/ksdkamesh99/Face-Mask-Detection.git
+https://github.com/aryan1010/GFG-Hackathon-Mask-Detection.git
 ```
 
 3. Install the Packages: 
@@ -54,23 +54,23 @@ python app.py
 ## 📜 Screenshots
 
 1. Home Page.   
-![home](home.png)
+![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/397f69f3-d497-4e49-93b7-bd38b8a3e3d9)
 
 2. About Page.  
-![about](about.png)
+![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/f8d50542-c3ca-4775-b943-baccd537a950)
 
 3. Predictions Page/Result Page.  
 
-   i. Narendra Modi With Mask.  
-![narendra](modi.png)
+   i. Girl With Mask.  
+![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/24245f84-a9bf-4fc9-ad0c-db55ed481f49)
    ii. Donald Trump without Mask.  
 ![trump](trump.png)
 
-## Future Work to do:-
-1 . To convert the application to asyncronous way by using ajax call.  
-2 . To deploy the application in AWS/GCP Platform for beter reach.
+  4. Live Mask Detection
+![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/d96bfa92-2cf1-4b87-993c-a306a5689863)
 
-## Contact:-
-For any kind of suggesstions/ help in model code Please mail me at ksdkamesh99@gmail.com.
-## 📜 LICENSE
-[MIT](https://github.com/ksdkamesh99/Face-Mask-Detection/blob/master/LICENSE)
+
+## Future Work to do:-
+1 . To deploy the application in GCP Platform for beter reach.
+
+
