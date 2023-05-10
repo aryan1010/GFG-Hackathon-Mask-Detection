@@ -66,7 +66,7 @@ python app.py
 ![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/d96bfa92-2cf1-4b87-993c-a306a5689863)
 
   4. Live Mask Detection
-![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/d96bfa92-2cf1-4b87-993c-a306a5689863)
+![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/e8b27462-d3d6-407b-95ab-f5e30c75de4b)
 
 
 ## Future Work to do:-
